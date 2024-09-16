@@ -17,28 +17,28 @@ Este projeto contém um formulário de autenticação em **React** com validaç�
 ## 📦 Como Usar
 
 1. Clone o repositório:
-
+   
    ```bash
    git clone https://github.com/MuraroGuilherme/form-frontend
    ```
-
+   
 2. Navegue até o repositório
-
+   
    ```bash
    cd form-frontend
    ```
 
 3. Instale as dependências
-
-  ```bash
-  npm install
-  ```
+   
+   ```bash
+   npm install
+   ```
 
 4. Execute o projeto
    
-  ```bash
-  npm start
-  ```
+   ```bash
+   npm start
+   ```
 
 5. Acesse o formulário em http://localhost:3000
    
