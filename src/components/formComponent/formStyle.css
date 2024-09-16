@@ -1,0 +1,59 @@
+.formStyle {
+  padding: 2rem;
+  border: none;
+  border-radius: 0.5rem;
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+  width: 220px;
+}
+
+.labelStyle {
+  margin: 1rem 0 2rem 0;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: white;
+}
+
+.inputStyle {
+  margin: 5px 0px 0px 0px;
+  padding: 0.5rem;
+  border: 1px solid #b9b4c7;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  width: 100%;
+}
+.errorStyle {
+  margin: 0px;
+  color: red;
+  font-size: small;
+}
+.submitStyle {
+  margin: 10px 0 0 0;
+  padding: 7px 10px;
+  border: none;
+  border-radius: 0.5rem;
+  background: #5c5470;
+  width: 100%;
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+  display: block;
+  transition: ease-in 0.1s;
+}
+.formDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.successMessage {
+  color: white;
+  font-weight: 600;
+}
+
+.submitStyle:hover {
+  background-color: #2d273d;
+}
+
+.inputLabelDiv {
+  padding: 1rem 0 1rem 0;
+}
