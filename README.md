@@ -5,8 +5,8 @@ Este projeto contém um formulário de autenticação em **React** com validaç�
 ## 🚀 Funcionalidades
 
 - **Validação do campo Email**: Garante que o email inserido tenha um formato válido.
-- **Validação do campo Confirmação de Email**: Verifica se o email de confirmação é igual ao email inserido.
 - **Validação da Senha**: Exige que a senha contenha pelo menos 6 caracteres.
+- **Validação do campo Confirmar senha**: Verifica se a senha de confirmação é igual a senha inserida.
 - **Mensagens de Erro**: Exibe mensagens de erro abaixo dos campos se as validações falharem.
 - **Mensagem de Sucesso**: Após envio bem-sucedido, exibe uma mensagem de sucesso e limpa os campos do formulário.
 
